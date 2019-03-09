@@ -322,5 +322,14 @@ footer nav a {
 }
 
 .before-footer {
-  margin: 15px;
+  margin: 30px 15px 30px 15px;
+}
+
+.about-learn {
+  background-color: transparent;
+  border: 2px solid black;
+  border-radius: 8px;
+  width: 35%;
+  margin-top: 15px;
+  height: 35px;
 }
