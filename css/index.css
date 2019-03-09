@@ -287,3 +287,40 @@ footer nav a {
 .img-road {
   margin-bottom: 20px;
 }
+
+.img-buildings {
+  margin-bottom: 20px;
+}
+
+.about-blurb {
+  margin: 0 15px 0 15px;
+  padding-bottom: 15px;
+}
+
+.middle-blurbs {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 15px 0 15px 0;
+  border-top: 1px dashed black;
+  justify-content: space-around;
+}
+
+.blurbs {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  padding: 0 0 25px 0;
+  border-bottom: 1px dashed black;
+}
+
+.bottom-half {
+  padding-top: 25px;
+}
+
+.blurb-title {
+  padding-top: 15px;
+}
+
+.before-footer {
+  margin: 15px;
+}
