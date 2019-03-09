@@ -271,17 +271,27 @@ footer nav a {
   background: dodgerblue;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
 .header-nav {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .top-nav {
   margin: 35px;
   text-decoration: none;
   color: black;
+}
+
+.navbar {
+  margin-left: 25px;
 }
 
 .img-road {
