@@ -270,3 +270,20 @@ footer nav a {
 .middle-content .boxes .box.ten {
   background: dodgerblue;
 }
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
+
+.top-nav {
+  margin: 35px;
+  text-decoration: none;
+  color: black;
+}
+
+.img-road {
+  margin-bottom: 20px;
+}
